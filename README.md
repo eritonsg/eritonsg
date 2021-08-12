@@ -1,9 +1,11 @@
-![](https://images2.imgbox.com/3d/b3/dXHOnJx0_o.jpg)
+![](https://i.ibb.co/SmMB0D0/folder-github-eritonsg.jpg)
 
 ### Welcome to my GitHub Profile
 
 Thank you very much for visit my GitHub Profile. 
-I'm a Software Developer since 2013. I have been developing and designing software using programming languages like Java and JavaScript, as well as through Unified Modeling Language (UML).
+
+I'm a Software Developer with experience in many programming languages, especially that ones indicated to the web development.
+I have started coding about 2013. In the most of projects, I use to create software using programming languages like `Java` and `JavaScript`, as well as model software artifacts through `Unified Modeling Language (UML)`.
 
 Construct Software Backend is my favorite task, because it depends on security, clean and well architecture, and a good project of software as whole.
 
@@ -26,5 +28,5 @@ Construct Software Backend is my favorite task, because it depends on security, 
 
 ### GitHub Stats:
 
-![Eriton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eritonsg&show_icons=true&layout=compact)
-![Eriton's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=eritonsg&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=eritonsg&show_icons=true&theme=vue-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eritonsg&show_icons=true&locale=en&layout=compact&theme=vue-dark)
