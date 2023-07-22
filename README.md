@@ -1,4 +1,4 @@
-![](https://i.ibb.co/SmMB0D0/folder-github-eritonsg.jpg)
+![](https://iili.io/HQfCCG4.jpg)
 
 ### Welcome to my GitHub Profile
 
@@ -15,7 +15,7 @@ Construct Software Backend is my favorite task, because it depends on security, 
 
 - 💬 Ask me about **software development and programming languages** like Java or JavaScript.
 
-- 📫 How to reach me **dev.eritonsg@gmail.com**
+- :link: How to reach me [linkedin.com/in/eritonsg](https://www.linkedin.com/in/eritonsg/)
 
 ### Connect with me:
 
